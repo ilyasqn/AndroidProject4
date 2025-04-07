@@ -50,7 +50,7 @@
             android:minWidth="48dp"
             android:minHeight="48dp"
             android:layout_marginEnd="16dp"
-            android:backgroundTint="#4CAF50"/>
+            android:backgroundTint="#20C726"/>
 
         <Button
             android:id="@+id/button_end"
