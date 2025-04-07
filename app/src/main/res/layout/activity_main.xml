@@ -60,7 +60,7 @@
             android:minWidth="48dp"
             android:minHeight="48dp"
             android:onClick="onClick"
-            android:backgroundTint="#F44336"/>
+            android:backgroundTint="#EB1609"/>
 
     </LinearLayout>
 
